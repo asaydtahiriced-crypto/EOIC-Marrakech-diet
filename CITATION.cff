@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this software."
+title: "Analysis code: dietary and lifestyle factors and early-onset intestinal cancer among low-income young adults in Marrakech-Safi, Morocco"
+version: 1.0.0
+date-released: 2026-10-15
+license: MIT
+authors:
+  - family-names: Ellouad
+    given-names: Hicham
+    affiliation: "Faculty of Medicine and Pharmacy of Marrakech, Cadi Ayyad University"
+  - family-names: Belbachir
+    given-names: Anass
+  - family-names: Assarag
+    given-names: Bouchra
+  - family-names: Doukkali
+    given-names: Anass
+  - family-names: Saydtahiri
+    given-names: Assia
